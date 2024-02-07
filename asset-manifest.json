@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/shady-rhymes-default-CSS/static/css/main.266f3b8d.css",
+    "main.js": "/shady-rhymes-default-CSS/static/js/main.c224c9a8.js",
+    "static/media/header2.png": "/shady-rhymes-default-CSS/static/media/header2.7ef7404bc2bf5d63b871.png",
+    "static/media/homey.png": "/shady-rhymes-default-CSS/static/media/homey.8931445cb2dbedc63a64.png",
+    "static/media/visualise.png": "/shady-rhymes-default-CSS/static/media/visualise.08c0fe114c6e4922ee6d.png",
+    "static/media/header1.jpg": "/shady-rhymes-default-CSS/static/media/header1.e418a93b65d6f5cd0d86.jpg",
+    "static/media/header3.jpg": "/shady-rhymes-default-CSS/static/media/header3.ec71e2d52f5d6efaaaee.jpg",
+    "static/media/chair3.png": "/shady-rhymes-default-CSS/static/media/chair3.36816d094823c3645790.png",
+    "static/media/chair4.png": "/shady-rhymes-default-CSS/static/media/chair4.c1befab60e67f0526f31.png",
+    "static/media/chair1.png": "/shady-rhymes-default-CSS/static/media/chair1.a8f8a71d86391854f9dd.png",
+    "static/media/chair2.png": "/shady-rhymes-default-CSS/static/media/chair2.12a8e6b8953d708310e4.png",
+    "static/media/slick.svg": "/shady-rhymes-default-CSS/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/shady-rhymes-default-CSS/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/shady-rhymes-default-CSS/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/shady-rhymes-default-CSS/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/shady-rhymes-default-CSS/index.html",
+    "static/media/hamburgerIcon.svg": "/shady-rhymes-default-CSS/static/media/hamburgerIcon.958f383c82ad0910475a912ac45f0fce.svg",
+    "static/media/search.svg": "/shady-rhymes-default-CSS/static/media/search.25eb80ce51931d7f462f39a67ad493ed.svg",
+    "static/media/star.svg": "/shady-rhymes-default-CSS/static/media/star.db91b14b9af344144f4c00d0bbca036e.svg",
+    "static/media/closeIcon.svg": "/shady-rhymes-default-CSS/static/media/closeIcon.d1c73016b2ff13d30a555ebfbe9cc3dd.svg",
+    "main.266f3b8d.css.map": "/shady-rhymes-default-CSS/static/css/main.266f3b8d.css.map",
+    "main.c224c9a8.js.map": "/shady-rhymes-default-CSS/static/js/main.c224c9a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.266f3b8d.css",
+    "static/js/main.c224c9a8.js"
+  ]
+}
