@@ -1,0 +1,49 @@
+.app__header {
+    flex-direction: column;
+    height: 100vh;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.app__header p {
+    max-width: 574px;
+}
+
+.app__header h1,
+.app__header p,
+.app__header input,
+.app__header input::placeholder {
+    color: var(--color-text-header);
+}
+
+.app__header-buttonContainer {
+    position: absolute;
+    bottom: 25px;
+}
+
+.radiobutton-input {
+    visibility: hidden;
+}
+
+.custom-radiobutton {
+    background-color: var(--color-accent);
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 0.5rem;
+}
+
+.radiobutton-input:checked+.custom-radiobutton {
+    background-color: var(--color-accent-dark);
+}
+
+
+@media screen and (max-width: 450px) {
+    .app__header p {
+        max-width: 292px;
+    }
+}

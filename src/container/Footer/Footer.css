@@ -1,0 +1,37 @@
+footer{
+    background: linear-gradient(to bottom right, #302f2f, #000000);
+    padding-bottom: 0;   
+}
+
+
+footer h3,
+footer p{
+    color: white;
+}
+
+.app__footer-content{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.app__footer-content-imgContainer img{
+    width: 237px;
+}
+
+
+.footer__copyright{
+    padding-top: 4rem;
+    text-align: center;
+}
+
+@media screen and (max-width: 850px) {
+    .app__footer-content {
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .app__footer-content-imgContainer img{
+        width: 124px;
+    }
+  }

@@ -1,0 +1,19 @@
+.app__homey{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 4rem;
+}
+
+.app__homey img{
+    width: 45%;
+}
+  
+@media screen and (max-width: 1150px) {
+    .app__homey {
+      flex-direction: column;
+    }
+    .app__homey img{
+        width: 100%;
+    }
+  }

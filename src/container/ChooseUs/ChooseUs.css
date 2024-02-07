@@ -1,0 +1,17 @@
+.app__chooseUs-cardContainer{
+    display: flex;
+    gap: 1rem; 
+}
+
+.app__chooseUs-card{
+    flex: 1 0 20em;
+    padding: 1rem;  
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 850px) {
+    .app__chooseUs-cardContainer{
+        flex-wrap: wrap; 
+    }
+  }
